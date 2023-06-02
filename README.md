@@ -12,7 +12,7 @@ BuzzVerse is a social media platform that aims to bring movie enthusiasts and in
 
 Upon joining BuzzVerse, users can create their unique profiles, customize their avatar, and provide a bio that reflects their movie preferences and interests. Users can follow other profiles and explore a personalized feed, curated based on the people they follow, popular movie hashtags, and trending topics.
 
-### 2. Microblogging and Gossip
+### 2. Microblogging and Gossips
 
 BuzzVerse allows users to post short messages, similar to tweets, sharing their thoughts, opinions, and gossip about movies, film stars, and the entertainment industry. Users can add hashtags and mentions to categorize their posts and mention other users, sparking conversations and inviting them to participate.
 ### 3. Discover and Follow
