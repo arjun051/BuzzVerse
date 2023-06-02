@@ -35,17 +35,6 @@ BuzzVerse highlights trending hashtags related to movies and the film industry, 
 
 ## Getting Started
 
-To start using BuzzVerse, simply visit our website at [www.buzzverse.com](https://www.buzzverse.com) and sign up for a free account. You can also download our mobile app from the App Store or Google Play Store to access BuzzVerse on your smartphone.
-
-## Feedback and Support
-
-We value your feedback and strive to make BuzzVerse the best platform for movie enthusiasts. If you have any suggestions, encounter issues, or need assistance, please reach out to our support team at [support@buzzverse.com](mailto:support@buzzverse.com). We appreciate your support in making BuzzVerse a thriving community for movie lovers.
-
-## Join the Buzz!
-
-Join BuzzVerse today and become part of a vibrant community where movie enthusiasts and industry insiders come together to gossip, share opinions, and celebrate the world of movies. Let the conversations begin!
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
