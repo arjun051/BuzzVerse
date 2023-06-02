@@ -6,8 +6,6 @@
 
 BuzzVerse is a social media platform that aims to bring movie enthusiasts and industry insiders together to discuss and gossip about movies and the film industry. Inspired by the popular microblogging platform Twitter, BuzzVerse offers a familiar and user-friendly interface for users to engage in conversations, share opinions, and stay up-to-date with the latest buzz in the world of cinema.
 
-With BuzzVerse, users can follow their favorite actors, directors, film studios, and fellow movie lovers to receive real-time updates and engage in lively discussions. Whether you're a casual moviegoer, a passionate cinephile, or a film industry professional, BuzzVerse provides a virtual space to express your thoughts, discover new movies, and connect with like-minded individuals who share your passion for the silver screen.
-
 ## Key Features
 
 ### 1. Personalized Profiles and Feeds
@@ -24,10 +22,6 @@ Discovering new movies and interesting personalities is a breeze on BuzzVerse. U
 ### 4. Multimedia Content
 
 BuzzVerse supports multimedia content, allowing users to share images, trailers, and GIFs related to movies. Users can embed videos from popular platforms like YouTube, Vimeo, and more to enhance their posts and provide visual context to their discussions.
-
-### 5. Notifications and Interactions
-
-Users receive real-time notifications for likes, comments, and mentions, ensuring that they never miss any engagement on their posts. They can engage in conversations through comments, reply to mentions, and like posts to show appreciation. BuzzVerse aims to foster a vibrant community where users can connect and share their love for movies.
 
 ### 6. Trending and Popular Hashtags
 
