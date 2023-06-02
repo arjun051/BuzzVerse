@@ -28,6 +28,9 @@ BuzzVerse supports multimedia content, allowing users to share images, trailers,
 
 BuzzVerse highlights trending hashtags related to movies and the film industry, making it easy for users to discover popular discussions and join the buzz. Users can also create their own hashtags to initiate conversations on specific topics and encourage others to participate.
 
+Feedback and Contributions:
+We welcome feedback, bug reports, and contributions from the community! If you have any suggestions or encounter any issues while using BuzzVerse, please don't hesitate to create a new issue in the issue tracker.
+
 ## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
